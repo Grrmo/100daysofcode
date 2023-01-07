@@ -1,6 +1,6 @@
 def main():
     # Welcome to the program
-    print("Welcome to the tip calculator")
+    print("Welcome to the tip calculator.")
 
     # Ask for the variables we need to use for the calculator
     total = float(input("What was the total bill? $"))
